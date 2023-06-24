@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hola REACT</h1>
+      <h1>PLATOS TÍPICOS DEL ECUADOR</h1>
       <div className="container">{vehicleList}</div>
     </div>
   );
