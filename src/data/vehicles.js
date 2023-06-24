@@ -7,7 +7,7 @@ const vehicles = [
   },
   {
     name: "SIERRA",
-    description: "CUY ASADO",
+    description: "CUY ASADOS",
     image:
       "https://i0.wp.com/informacionecuador.com/wp-content/uploads/2022/06/cuy-asado-ecuador.webp?resize=665%2C254&ssl=1",
   },
